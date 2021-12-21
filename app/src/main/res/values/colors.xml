@@ -11,4 +11,12 @@
     <color name="bac_color">#FFFFFC</color>
     <color name="top_color">#A0C4FF</color>
 
+    <color name="mor_color">#BDB2FF</color>
+    <color name="pem_color">#ffc6ff</color>
+    <color name="mai_color">#9bf6ff</color>
+    <color name="sari_color">#fdffb6</color>
+    <color name="turn_color">#ffd6a5</color>
+    <color name="mavi_color">#a2d2ff</color>
+
+
 </resources>
