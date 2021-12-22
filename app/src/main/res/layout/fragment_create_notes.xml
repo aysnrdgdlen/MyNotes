@@ -20,6 +20,7 @@
             android:background="@drawable/edit_txt_shape"
             android:fontFamily="sans-serif-medium"
             android:hint="Title.."
+            android:id="@+id/edtTitle"
             android:padding="15dp"
             android:layout_marginTop="10dp"
             android:textColorHint="#D5D5D5"
@@ -31,6 +32,7 @@
             android:background="@drawable/edit_txt_shape"
             android:fontFamily="sans-serif-medium"
             android:hint="Subtitle.."
+            android:id="@+id/edtSubTitle"
             android:padding="15dp"
             android:layout_marginTop="10dp"
             android:textColorHint="#D5D5D5"
@@ -45,17 +47,20 @@
             <ImageView
                 android:layout_width="25dp"
                 android:layout_height="25dp"
+                android:id="@+id/pPink"
                 android:background="@drawable/pink_dot"/>
 
             <ImageView
                 android:layout_width="25dp"
                 android:layout_height="25dp"
                 android:layout_marginStart="20dp"
+                android:id="@+id/pBlue"
                 android:background="@drawable/blue_dot"/>
             <ImageView
                 android:layout_width="25dp"
                 android:layout_height="25dp"
                 android:layout_marginStart="20dp"
+                android:id="@+id/pPurple"
                 android:background="@drawable/purple_dot"/>
 
 
