@@ -16,6 +16,7 @@
             android:layout_width="20dp"
             android:layout_height="20dp"
             android:layout_gravity="right"
+            android:id="@+id/viewPiority"
             android:layout_margin="10dp"
             android:background="@drawable/pink_dot"/>
 
@@ -32,6 +33,7 @@
                 android:textColor="@color/white"
                 android:textSize="18sp"
                 android:maxLines="1"
+                android:id="@+id/notesTitle"
                 android:textStyle="bold"/>
 
             <TextView
@@ -39,6 +41,7 @@
                 android:layout_height="wrap_content"
                 android:text="abuksubukgakkirikukkuruu"
                 android:textColor="#ECECEC"
+                android:id="@+id/notesSubTitle"
                 android:layout_marginTop="5dp"
                 android:textSize="16sp"
                 android:textStyle="normal"/>
@@ -48,6 +51,7 @@
                 android:layout_height="wrap_content"
                 android:text="23 Mart 2021"
                 android:textColor="@color/white"
+                android:id="@+id/notesDate"
                 android:layout_marginTop="10dp"
                 android:textSize="16sp"
                 android:textStyle="normal"/>
